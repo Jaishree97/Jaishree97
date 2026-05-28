@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaishree Chaure
 
-<!--
-**Jaishree97/Jaishree97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am an aspiring DevOps & Cloud Engineer passionate about automation, cloud technologies, and real-world infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ☁️ AWS Certified Cloud Practitioner (CLF-C02)
+* 🌱 Currently learning DevOps through hands-on projects & #90DaysOfDevOps
+* 🐧 Exploring Linux, Docker, Kubernetes & CI/CD
+* 🔧 Building practical AWS and troubleshooting projects
+* 📚 Always learning and improving step by step
+* 💬 Ask me about AWS, Linux & DevOps basics
+* ⚡ Restarting my IT journey with consistency and confidence
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & DevOps
+
+AWS • Docker • Kubernetes • Jenkins • Linux
+
+### Languages & Scripting
+
+Python • Shell Scripting • Git
+
+### Currently Learning
+
+CI/CD • Kubernetes • Terraform • Monitoring
+
+---
+
+## 📌 Featured Projects
+
+* AWS Static Website Hosting using S3 + CloudFront
+* Linux Monitoring & Troubleshooting Lab
+* AWS VPC Networking Lab
+* EC2 Apache Web Server Deployment
+
+---
+
+⭐ “Consistency is more important than perfection.”
