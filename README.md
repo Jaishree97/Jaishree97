@@ -70,42 +70,41 @@ I am an aspiring DevOps & Cloud Engineer passionate about automation, cloud tech
 ---
 ## 📊 GitHub Stats
 
-![Jaishree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaishree97&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaishree97&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishree97&layout=compact&theme=tokyonight)
-
----
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jaishree97&theme=tokyonight)
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Jaishree97&color=blueviolet)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jaishree97&theme=tokyonight" />
+</p>
 
 ---
-## 🎯 2026 DevOps Roadmap
+## 📈 Activity Graph
 
-- [x] AWS Cloud Practitioner
-- [x] Linux Fundamentals
-- [x] Git & GitHub
-- [ ] Docker
-- [ ] Kubernetes
-- [ ] Terraform
-- [ ] CI/CD
-- [ ] AWS Solutions Architect Associate
+[![Jaishree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaishree97&theme=tokyo-night)](https://github.com/Jaishree97)-----
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaishree-chaure-a9722038a)
+
+[![EMAIL](https://img.shields.io/badge/EMAIL-CHAUREJAISHREE%40GMAIL.COM-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaurejaishree@gmail.com)
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-JAISHREE97-black?style=for-the-badge&logo=github)](https://github.com/Jaishree97)
+
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaishree97&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+---
+<p align="center">
+💡 <b>"Building the future, one deployment at a time"</b>
+</p>
+---
+
 ## 🏆 Certifications
 
 - AWS Certified Cloud Practitioner (CLF-C02)
 - 90DaysOfDevOps Participant
 
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:YOUR_EMAIL)
-
----
-⭐ “Consistency is more important than perfection.”
 
