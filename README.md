@@ -18,7 +18,7 @@ I am an aspiring DevOps & Cloud Engineer passionate about automation, cloud tech
 * 🔧 Building practical AWS and troubleshooting projects
 * 📚 Always learning and improving step by step
 * 💬 Ask me about AWS, Linux & DevOps basics
-* ⚡ Restarting my IT journey with consistency and confidence
+* ⚡ Building my IT career through consistent learning and hands-on practice
 
 ---
 
@@ -59,14 +59,17 @@ I am an aspiring DevOps & Cloud Engineer passionate about automation, cloud tech
 </p>
 
 ---
+## 🔥 Current Challenge
 
+🚀 Completing #90DaysOfDevOps while building hands-on AWS and Linux skills every day.
+
+---
 ## 📌 Featured Projects
 
-* AWS Static Website Hosting using S3 + CloudFront
-* Linux Monitoring & Troubleshooting Lab
-* AWS VPC Networking Lab
-* EC2 Apache Web Server Deployment
-
+* 🚀 90DaysOfDevOps Learning Journey
+* ☁️ AWS EC2 Linux Administration Lab
+* 🔧 Linux Monitoring & Troubleshooting Practice
+* 🌐 Static Website Hosting using AWS S3
 ---
 ## 📊 GitHub Stats
 
@@ -81,8 +84,18 @@ I am an aspiring DevOps & Cloud Engineer passionate about automation, cloud tech
 ---
 ## 📈 Activity Graph
 
-[![Jaishree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaishree97&theme=tokyo-night)](https://github.com/Jaishree97)-----
+[![Jaishree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaishree97&theme=tokyo-night)](https://github.com/Jaishree97)
 
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Jaishree97/Jaishree97/blob/output/github-contribution-grid-snake.svg)
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jaishree97&theme=tokyonight)](https://github.com/Jaishree97)
+
+---
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaishree-chaure-a9722038a)
@@ -104,7 +117,7 @@ I am an aspiring DevOps & Cloud Engineer passionate about automation, cloud tech
 ## 🏆 Certifications
 
 - AWS Certified Cloud Practitioner (CLF-C02)
-- 90DaysOfDevOps Participant
+
 
 
 
