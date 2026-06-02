@@ -89,11 +89,6 @@ I am an aspiring DevOps & Cloud Engineer passionate about automation, cloud tech
 ### 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Jaishree97/Jaishree97/blob/output/github-contribution-grid-snake.svg)
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jaishree97&theme=tokyonight)](https://github.com/Jaishree97)
 
 ---
 ## 🌐 Connect With Me
