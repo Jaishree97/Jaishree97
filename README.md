@@ -82,7 +82,6 @@ I am an aspiring DevOps & Cloud Engineer passionate about automation, cloud tech
 </p>
 
 ---
-## 📈 Activity Graph
 
 ## 📈 Contribution Graph
 
