@@ -84,7 +84,9 @@ I am an aspiring DevOps & Cloud Engineer passionate about automation, cloud tech
 ---
 ## 📈 Activity Graph
 
-[![Jaishree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaishree97&theme=tokyo-night)](https://github.com/Jaishree97)
+## 📈 Contribution Graph
+
+[![Jaishree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaishree97&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Jaishree97)
 
 ### 🐍 Contribution Snake
 
