@@ -71,18 +71,18 @@ I am an aspiring DevOps & Cloud Engineer passionate about automation, cloud tech
 * 🔧 Linux Monitoring & Troubleshooting Practice
 * 🌐 Static Website Hosting using AWS S3
 ---
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jaishree97&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishree97&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jaishree97&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishree97&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaishree97&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 📈 Contribution Graph
