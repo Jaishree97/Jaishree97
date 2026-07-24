@@ -217,9 +217,12 @@ Every repository reflects one thing—continuous growth as a Cloud & DevOps Engi
 
 ---
 
+## 📊 GitHub at a Glance
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaishree97&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/Jaishree97?label=FOLLOWERS&style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=Jaishree97&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Jaishree97?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Jaishree97?style=for-the-badge" />
 </p>
 
 ---
