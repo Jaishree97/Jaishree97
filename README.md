@@ -186,8 +186,8 @@ Currently, I'm focused on:
   <a href="https://www.linkedin.com/in/jaishree-chaure">
     <img src="https://img.shields.io/badge/LinkedIn-Jaishree%20Chaure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jaishreechoure2016@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jaishreechoure2016%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:chaurejaishree@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Jaishree97">
     <img src="https://img.shields.io/badge/GitHub-Jaishree97-181717?style=for-the-badge&logo=github&logoColor=white" />
