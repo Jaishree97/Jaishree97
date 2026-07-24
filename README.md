@@ -19,8 +19,9 @@ AWS Certified Cloud Practitioner | Building Real-World Cloud & DevOps Projects
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaishree97&style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=Jaishree97&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/followers/Jaishree97?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Jaishree97?style=for-the-badge" />
 </p>
 
 ---
@@ -243,17 +244,5 @@ My goal is simple:
 - My #90DaysOfDevOps Learning Journey
 
 > Learn. Build. Automate. Deploy. Repeat.
-
----
-
-## 📊 GitHub at a Glance
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaishree97&style=for-the-badge&color=blue" />
-
-  <img src="https://img.shields.io/github/followers/Jaishree97?style=for-the-badge" />
-
-  <img src="https://img.shields.io/github/stars/Jaishree97?style=for-the-badge" />
-</p>
 
 ---
