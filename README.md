@@ -172,12 +172,6 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaishree97&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -223,7 +217,8 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 ---
 
 ## 🎯 Career Goal
-> My goal is to become a production-ready Cloud & DevOps Engineer capable of designing, automating, securing, and managing scalable cloud infrastructure and modern CI/CD systems.
+
+> To become a production-ready Cloud & DevOps Engineer capable of designing, automating, securing, and managing scalable cloud infrastructure and modern CI/CD systems.
 
 ---
 
