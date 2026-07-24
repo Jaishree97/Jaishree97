@@ -1,3 +1,11 @@
+<!-- ============================================= -->
+<!--                 GITHUB BANNER                 -->
+<!-- ============================================= -->
+
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Jaishree Chaure Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Jaishree Chaure</h1>
 
 <h3 align="center">
