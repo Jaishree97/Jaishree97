@@ -182,11 +182,17 @@ Currently, I'm focused on:
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaishree-chaure-a9722038a)
-
-[![EMAIL](https://img.shields.io/badge/EMAIL-JAISHREECHOURE2016%40GMAIL.COM-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaishreechoure2016@gmail.com)
-
-[![GITHUB](https://img.shields.io/badge/GITHUB-JAISHREE97-black?style=for-the-badge&logo=github)](https://github.com/Jaishree97)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaishree-chaure">
+    <img src="https://img.shields.io/badge/LinkedIn-Jaishree%20Chaure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jaishreechoure2016@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jaishreechoure2016%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jaishree97">
+    <img src="https://img.shields.io/badge/GitHub-Jaishree97-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
