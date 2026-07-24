@@ -71,60 +71,70 @@
 
 ---
 
-## 🚀 Current Journey
+## 📌 Featured Projects
 
-Currently, I'm focused on:
+### 🚀 90 Days of DevOps
 
-- Building real-world Cloud & DevOps projects.
-- Designing scalable CI/CD pipelines.
-- Learning Kubernetes and Monitoring tools.
-- Exploring Infrastructure as Code best practices.
-- Writing technical documentation and DevOps notes.
-- Building production-ready Cloud infrastructure.
+> My hands-on Cloud & DevOps learning journey.
+
+Repository:
+
+- [90DaysOfDevOps](https://github.com/Jaishree97/90DaysOfDevOps)
 
 ---
 
-## 📌 Featured Projects
-
 ### ☁️ Cloud & AWS Projects
 
-- AWS Infrastructure Labs
-- EC2 Linux Administration
-- IAM Labs
-- Static Website Hosting using Amazon S3
+> Hands-on AWS projects covering networking, compute, scalability, and web hosting.
+
+Repositories:
+
+- [AWS Static Website Hosting with S3 & CloudFront](https://github.com/Jaishree97/aws-static-website-s3-cloudfront)
+- [EC2 Apache Web Server Setup](https://github.com/Jaishree97/ec2-apache-web-server)
+- [AWS Application Load Balancer & Auto Scaling Project](https://github.com/Jaishree97/aws-alb-auto-scaling-project)
+- [AWS VPC Networking Lab](https://github.com/Jaishree97/aws-vpc-networking-lab)
+- [AWS Elastic Network Interface (ENI) Lab](https://github.com/Jaishree97/aws-eni-lab)
+
+---
+
+### 🐧 Linux Projects
+
+> Linux administration, monitoring, and troubleshooting labs.
+
+Repositories:
+
+- [Linux Monitoring & Troubleshooting Lab](https://github.com/Jaishree97/linux-monitoring-troubleshooting-lab)
+- [Nginx & HTTPD Troubleshooting Lab](https://github.com/Jaishree97/nginx-httpd-troubleshooting-lab)
+
+---
 
 ### 🏗️ Terraform Projects
 
-- AWS VPC Infrastructure
-- EC2 Deployments
-- Terraform Modules
-- Remote Backends & State Management
+> Infrastructure as Code (IaC) projects built using Terraform and AWS.
+
+Repository:
+
+- [TerraWeek](https://github.com/Jaishree97/TerraWeek)
+
+---
 
 ### ⚡ GitHub Actions Projects
 
-- Multi-Job Workflows
-- Matrix Builds
-- Self-Hosted Runners
-- Artifacts & Caching
-- Environment Variables
-- CI/CD Pipelines
+> Hands-on CI/CD automation workflows and GitHub Actions labs.
 
-### 🐳 Docker Projects
+Repository:
 
-- Dockerfiles
-- Multi-stage Builds
-- Docker Compose
-- Networking & Volumes
-- Containerized Applications
+- [GitHub Actions Practice](https://github.com/Jaishree97/github-actions-practice)
+
+---
 
 ### 📚 DevOps Notes Repository
 
-- AWS Notes
-- Linux Notes
-- Terraform Notes
-- Docker Notes
-- GitHub Actions Notes
-- Kubernetes Notes
+> Technical notes, hands-on labs, cheat sheets, and Cloud & DevOps documentation.
+
+Repository:
+
+- [DevOps Notes](https://github.com/Jaishree97/DevOps-Notes)
 
 ---
 
@@ -183,12 +193,14 @@ Currently, I'm focused on:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaishree-chaure">
+  <a href="https://www.linkedin.com/in/jaishree-chaure-a9722038a">
     <img src="https://img.shields.io/badge/LinkedIn-Jaishree%20Chaure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:chaurejaishree@gmail.com">
+
+  <a href="mailto:jaishreechoure2016@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/Jaishree97">
     <img src="https://img.shields.io/badge/GitHub-Jaishree97-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -198,20 +210,20 @@ Currently, I'm focused on:
 
 ## 🚀 Why This GitHub Exists
 
-This GitHub is where I learn, build, and ship Cloud & DevOps projects.
+This GitHub is my Cloud & DevOps engineering portfolio—a place where I learn, build, document, and automate real-world projects.
 
-I'm an AWS Certified Cloud Practitioner passionate about designing scalable cloud infrastructure, automating workflows, and solving real-world engineering problems.
+My goal is simple:
 
-Here you'll find:
+> To become a production-ready Cloud & DevOps Engineer by building practical solutions and sharing my learning journey with the community.
 
-- Cloud & DevOps projects
-- AWS hands-on labs
+### What You'll Find Here
+
+- Cloud & DevOps Projects
+- AWS Hands-on Labs
 - Infrastructure as Code (Terraform)
-- Linux & Docker experiments
-- CI/CD pipelines and GitHub Actions
-- My #90DaysOfDevOps learning journey
-
-Every repository reflects one thing—continuous growth as a Cloud & DevOps Engineer.
+- CI/CD Automation Pipelines
+- Technical Documentation & Notes
+- My #90DaysOfDevOps Learning Journey
 
 > **Learn. Build. Automate. Deploy. Repeat.**
 
@@ -221,8 +233,10 @@ Every repository reflects one thing—continuous growth as a Cloud & DevOps Engi
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jaishree97&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Jaishree97?style=for-the-badge" />
+
   <img src="https://img.shields.io/github/followers/Jaishree97?style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/stars/Jaishree97?style=for-the-badge" />
 </p>
 
 ---
