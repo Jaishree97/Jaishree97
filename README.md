@@ -6,77 +6,125 @@
   <img src="./assets/github-banner.png" width="100%" alt="Jaishree Chaure Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Jaishree Chaure</h1>
-
-<h3 align="center">
-Cloud & DevOps Engineer | AWS Certified Cloud Practitioner
-</h3>
-
-<p align="center">
-🚀 Building scalable cloud infrastructure, automation workflows, and real-world DevOps projects.
-</p>
+---
 
 ## 🚀 About Me
 
-
-
-- AWS Certified Cloud Practitioner (CLF-C02)
+- AWS Certified Cloud Practitioner (CLF-C02).
 - Passionate about Cloud Computing, DevOps, and Infrastructure Automation.
-- Building hands-on Cloud and DevOps projects using AWS and open-source technologies.
-- Interested in Infrastructure as Code (IaC), Containerization, Cloud Security, and Automation.
-- Interested in Infrastructure as Code (IaC), Containerization, Cloud Security, and Automation.
-- Continuously improving through project-based learning, technical documentation, and real-world implementations.
-- Actively documenting my learning journey and sharing practical Cloud and DevOps projects.
+- Building hands-on Cloud & DevOps projects using AWS and open-source technologies.
+- Skilled in Python, MySQL, Linux, Git, and Cloud technologies.
+- Interested in Infrastructure as Code (IaC), CI/CD, Containerization, Cloud Security, and Automation.
+- Continuously learning through project-based implementations, technical documentation, and real-world projects.
+- Actively documenting and sharing my Cloud & DevOps journey on GitHub.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Cloud & DevOps
+### ☁️ Cloud
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
+<p>
+<img src="https://skillicons.dev/icons?i=aws" height="35"/>
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+### ⚙️ DevOps & Automation
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions" height="35"/>
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
+### 💻 Programming & Scripting
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash" height="35"/>
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+### 🗄️ Databases
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" height="35"/>
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+### 🐧 Operating Systems & Tools
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" height="35"/>
+</p>
+
+### 📊 Monitoring & Observability
+
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" height="35"/>
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50"/>
-</p>
-
----
-
-## 📖 Learning Journey
-
-I believe in learning by building. My GitHub is a collection of hands-on Cloud and DevOps projects, technical documentation, and practical implementations that reflect my continuous growth as an engineer.
+- Kubernetes Fundamentals
+- Advanced Terraform Modules & Best Practices
+- Monitoring & Observability
+- Production-grade CI/CD Pipelines
+- Infrastructure Automation
+- Cloud Security Best Practices
 
 ---
 
-## 🎯 Career Goal
+## 🚀 Current Journey
 
-To design, automate, and manage scalable cloud infrastructure while continuously growing as a Cloud and DevOps Engineer.
+Currently, I'm focused on:
+
+- Building real-world Cloud & DevOps projects.
+- Designing scalable CI/CD pipelines.
+- Learning Kubernetes and Monitoring tools.
+- Exploring Infrastructure as Code best practices.
+- Writing technical documentation and DevOps notes.
+- Building production-ready Cloud infrastructure.
+
+---
+
+## 📌 Featured Projects
+
+### ☁️ Cloud & AWS Projects
+
+- AWS Infrastructure Labs
+- EC2 Linux Administration
+- IAM Labs
+- Static Website Hosting using Amazon S3
+
+### 🏗️ Terraform Projects
+
+- AWS VPC Infrastructure
+- EC2 Deployments
+- Terraform Modules
+- Remote Backends & State Management
+
+### ⚡ GitHub Actions Projects
+
+- Multi-Job Workflows
+- Matrix Builds
+- Self-Hosted Runners
+- Artifacts & Caching
+- Environment Variables
+- CI/CD Pipelines
+
+### 🐳 Docker Projects
+
+- Dockerfiles
+- Multi-stage Builds
+- Docker Compose
+- Networking & Volumes
+- Containerized Applications
+
+### 📚 DevOps Notes Repository
+
+- AWS Notes
+- Linux Notes
+- Terraform Notes
+- Docker Notes
+- GitHub Actions Notes
+- Kubernetes Notes
 
 ---
 
@@ -84,25 +132,33 @@ To design, automate, and manage scalable cloud infrastructure while continuously
 
 - AWS Certified Cloud Practitioner (CLF-C02)
 - AWS re/Start Graduate
-- Git & GitHub Certification
-- SQL Certification
 - Python Certification
-  
+- SQL Certification
+- Git & GitHub Certification
+
 ---
 
-## 📌 Featured Projects
+## 🎯 Career Goal
 
-* 🚀 90DaysOfDevOps Learning Journey
-* ☁️ AWS EC2 Linux Administration Lab
-* 🔧 Linux Monitoring & Troubleshooting Practice
-* 🌐 Static Website Hosting using AWS S3
-  
+> My goal is to become a production-ready Cloud & DevOps Engineer capable of designing, automating, securing, and managing scalable cloud infrastructure and modern CI/CD systems.
+
 ---
 
-## 📊 GitHub Stats
+## 💼 Open To Opportunities
+
+- Cloud Engineer
+- DevOps Engineer
+- Cloud Support Engineer
+- Platform Engineer
+- Junior DevOps Engineer
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jaishree97&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishree97&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -114,33 +170,48 @@ To design, automate, and manage scalable cloud infrastructure while continuously
 
 ## 📈 Contribution Graph
 
-[![Jaishree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaishree97&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Jaishree97)
+[![Jaishree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaishree97&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Jaishree97)
 
-### 🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Jaishree97/Jaishree97/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaishree-chaure-a9722038a)
 
-[![EMAIL](https://img.shields.io/badge/EMAIL-CHAUREJAISHREE%40GMAIL.COM-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaurejaishree@gmail.com)
+[![EMAIL](https://img.shields.io/badge/EMAIL-JAISHREECHOURE2016%40GMAIL.COM-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaishreechoure2016@gmail.com)
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-JAISHREE97-black?style=for-the-badge&logo=github)](https://github.com/Jaishree97)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaishree97&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+## 🚀 Why This GitHub Exists
 
 <p align="center">
-💡 <b>"Building the future, one deployment at a time"</b>
+
+This GitHub is more than just a collection of repositories.
+
+It's my Cloud & DevOps engineering portfolio—a place where I build real-world projects, experiment with modern technologies, document my learning journey, and continuously improve my skills.
+
+Every project represents another step toward becoming a production-ready Cloud & DevOps Engineer.
+
 </p>
 
 ---
 
+<p align="center">
+<b>Learn. Build. Document. Improve.</b>
+</p>
 
+<br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaishree97&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+
+  <img src="https://img.shields.io/github/followers/Jaishree97?label=Followers&style=for-the-badge&color=blue" />
+</p>
