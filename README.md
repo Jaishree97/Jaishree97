@@ -198,26 +198,28 @@ Currently, I'm focused on:
 
 ## 🚀 Why This GitHub Exists
 
-<p align="center">
+This GitHub is where I learn, build, and ship Cloud & DevOps projects.
 
-This GitHub is more than just a collection of repositories.
+I'm an AWS Certified Cloud Practitioner passionate about designing scalable cloud infrastructure, automating workflows, and solving real-world engineering problems.
 
-It's my Cloud & DevOps engineering portfolio—a place where I build real-world projects, experiment with modern technologies, document my learning journey, and continuously improve my skills.
+Here you'll find:
 
-Every project represents another step toward becoming a production-ready Cloud & DevOps Engineer.
+- Cloud & DevOps projects
+- AWS hands-on labs
+- Infrastructure as Code (Terraform)
+- Linux & Docker experiments
+- CI/CD pipelines and GitHub Actions
+- My #90DaysOfDevOps learning journey
 
-</p>
+Every repository reflects one thing—continuous growth as a Cloud & DevOps Engineer.
+
+> **Learn. Build. Automate. Deploy. Repeat.**
 
 ---
 
 <p align="center">
-<b>Learn. Build. Document. Improve.</b>
+  <img src="https://komarev.com/ghpvc/?username=Jaishree97&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/Jaishree97?label=FOLLOWERS&style=for-the-badge&color=0e75b6" />
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaishree97&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
-
-  <img src="https://img.shields.io/github/followers/Jaishree97?label=Followers&style=for-the-badge&color=blue" />
-</p>
+---
