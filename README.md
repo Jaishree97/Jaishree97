@@ -6,16 +6,33 @@
   <img src="./assets/github-banner.png" width="100%" alt="Jaishree Chaure Banner">
 </p>
 
+<br>
+
+<h1 align="center">Hi, I'm Jaishree Chaure 👋</h1>
+
+<h3 align="center">
+Cloud Infrastructure • DevOps • Automation
+</h3>
+
+<p align="center">
+AWS Certified Cloud Practitioner | Building Real-World Cloud & DevOps Projects
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaishree97&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/Jaishree97?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
 - AWS Certified Cloud Practitioner (CLF-C02).
 - Passionate about Cloud Computing, DevOps, and Infrastructure Automation.
-- Building hands-on Cloud & DevOps projects using AWS and open-source technologies.
+- Building real-world Cloud & DevOps projects using AWS and open-source technologies.
 - Skilled in Python, MySQL, Linux, Git, and Cloud technologies.
 - Interested in Infrastructure as Code (IaC), CI/CD, Containerization, Cloud Security, and Automation.
-- Continuously learning through project-based implementations, technical documentation, and real-world projects.
+- Continuously learning through hands-on projects, technical documentation, and modern DevOps practices.
 - Actively documenting and sharing my Cloud & DevOps journey on GitHub.
 
 ---
@@ -68,6 +85,12 @@
 - Production-grade CI/CD Pipelines
 - Infrastructure Automation
 - Cloud Security Best Practices
+
+---
+
+## 🎯 Career Goal
+
+> My goal is to become a production-ready Cloud & DevOps Engineer capable of designing, automating, securing, and managing scalable cloud infrastructure and modern CI/CD systems.
 
 ---
 
@@ -148,12 +171,6 @@ Repository:
 
 ---
 
-## 🎯 Career Goal
-
-> My goal is to become a production-ready Cloud & DevOps Engineer capable of designing, automating, securing, and managing scalable cloud infrastructure and modern CI/CD systems.
-
----
-
 ## 💼 Open To Opportunities
 
 - Cloud Engineer
@@ -225,7 +242,7 @@ My goal is simple:
 - Technical Documentation & Notes
 - My #90DaysOfDevOps Learning Journey
 
-> **Learn. Build. Automate. Deploy. Repeat.**
+> Learn. Build. Automate. Deploy. Repeat.
 
 ---
 
