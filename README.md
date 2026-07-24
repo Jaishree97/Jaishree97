@@ -8,20 +8,24 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Jaishree Chaure 👋</h1>
+<h1 align="center">
+Hi, I'm Jaishree Chaure 👋
+</h1>
 
 <h3 align="center">
-Cloud Infrastructure • DevOps • Automation
+Cloud & DevOps Engineer
 </h3>
 
 <p align="center">
-AWS Certified Cloud Practitioner | Building Real-World Cloud & DevOps Projects
+AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastructure
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaishree97&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Jaishree97&style=for-the-badge&color=0e75b6" />
+
   <img src="https://img.shields.io/github/followers/Jaishree97?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Jaishree97?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
@@ -31,7 +35,7 @@ AWS Certified Cloud Practitioner | Building Real-World Cloud & DevOps Projects
 - AWS Certified Cloud Practitioner (CLF-C02).
 - Passionate about Cloud Computing, DevOps, and Infrastructure Automation.
 - Building real-world Cloud & DevOps projects using AWS and open-source technologies.
-- Skilled in Python, MySQL, Linux, Git, and Cloud technologies.
+- Skilled in Python, MySQL, Linux, Git, and modern Cloud & DevOps tools.
 - Interested in Infrastructure as Code (IaC), CI/CD, Containerization, Cloud Security, and Automation.
 - Continuously learning through hands-on projects, technical documentation, and modern DevOps practices.
 - Actively documenting and sharing my Cloud & DevOps journey on GitHub.
@@ -40,40 +44,28 @@ AWS Certified Cloud Practitioner | Building Real-World Cloud & DevOps Projects
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud
+### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws" height="35"/>
-</p>
-
-### ⚙️ DevOps & Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions" height="35"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions" height="40" />
 </p>
 
 ### 💻 Programming & Scripting
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash" height="35"/>
+  <img src="https://skillicons.dev/icons?i=python,bash" height="40" />
 </p>
 
-### 🗄️ Databases
+### 🐧 Operating Systems, Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" height="35"/>
-</p>
-
-### 🐧 Operating Systems & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" height="35"/>
+  <img src="https://skillicons.dev/icons?i=linux,mysql,git,github,vscode" height="40" />
 </p>
 
 ### 📊 Monitoring & Observability
 
 <p>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" height="35"/>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="40" />
 </p>
 
 ---
@@ -89,10 +81,14 @@ AWS Certified Cloud Practitioner | Building Real-World Cloud & DevOps Projects
 
 ---
 
-## 🎯 Career Goal
+## 🌱 Currently Building
 
-> My goal is to become a production-ready Cloud & DevOps Engineer capable of designing, automating, securing, and managing scalable cloud infrastructure and modern CI/CD systems.
-
+- Production-ready Cloud Infrastructure projects.
+- CI/CD pipelines using GitHub Actions.
+- Terraform-based AWS infrastructure deployments.
+- Linux administration and troubleshooting labs.
+- Technical documentation for Cloud & DevOps concepts.
+  
 ---
 
 ## 📌 Featured Projects
@@ -100,8 +96,6 @@ AWS Certified Cloud Practitioner | Building Real-World Cloud & DevOps Projects
 ### 🚀 90 Days of DevOps
 
 > My hands-on Cloud & DevOps learning journey.
-
-Repository:
 
 - [90DaysOfDevOps](https://github.com/Jaishree97/90DaysOfDevOps)
 
@@ -111,8 +105,6 @@ Repository:
 
 > Hands-on AWS projects covering networking, compute, scalability, and web hosting.
 
-Repositories:
-
 - [AWS Static Website Hosting with S3 & CloudFront](https://github.com/Jaishree97/aws-static-website-s3-cloudfront)
 - [EC2 Apache Web Server Setup](https://github.com/Jaishree97/ec2-apache-web-server)
 - [AWS Application Load Balancer & Auto Scaling Project](https://github.com/Jaishree97/aws-alb-auto-scaling-project)
@@ -121,22 +113,9 @@ Repositories:
 
 ---
 
-### 🐧 Linux Projects
-
-> Linux administration, monitoring, and troubleshooting labs.
-
-Repositories:
-
-- [Linux Monitoring & Troubleshooting Lab](https://github.com/Jaishree97/linux-monitoring-troubleshooting-lab)
-- [Nginx & HTTPD Troubleshooting Lab](https://github.com/Jaishree97/nginx-httpd-troubleshooting-lab)
-
----
-
 ### 🏗️ Terraform Projects
 
 > Infrastructure as Code (IaC) projects built using Terraform and AWS.
-
-Repository:
 
 - [TerraWeek](https://github.com/Jaishree97/TerraWeek)
 
@@ -146,17 +125,22 @@ Repository:
 
 > Hands-on CI/CD automation workflows and GitHub Actions labs.
 
-Repository:
-
 - [GitHub Actions Practice](https://github.com/Jaishree97/github-actions-practice)
+
+---
+
+### 🐧 Linux Projects
+
+> Linux administration, monitoring, and troubleshooting labs.
+
+- [Linux Monitoring & Troubleshooting Lab](https://github.com/Jaishree97/linux-monitoring-troubleshooting-lab)
+- [Nginx & HTTPD Troubleshooting Lab](https://github.com/Jaishree97/nginx-httpd-troubleshooting-lab)
 
 ---
 
 ### 📚 DevOps Notes Repository
 
 > Technical notes, hands-on labs, cheat sheets, and Cloud & DevOps documentation.
-
-Repository:
 
 - [DevOps Notes](https://github.com/Jaishree97/DevOps-Notes)
 
@@ -170,6 +154,12 @@ Repository:
 - SQL Certification
 - Git & GitHub Certification
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaishree-chaure">
+    <img src="https://img.shields.io/badge/View-Certifications_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 💼 Open To Opportunities
@@ -178,7 +168,13 @@ Repository:
 - DevOps Engineer
 - Cloud Support Engineer
 - Platform Engineer
-- Junior DevOps Engineer
+- Site Reliability Engineer (Entry-Level)
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaishree97&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+</p>
 
 ---
 
@@ -211,7 +207,7 @@ Repository:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaishree-chaure-a9722038a">
+  <a href="https://www.linkedin.com/in/jaishree-chaure">
     <img src="https://img.shields.io/badge/LinkedIn-Jaishree%20Chaure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -226,22 +222,24 @@ Repository:
 
 ---
 
+## 🎯 Career Goal
+> My goal is to become a production-ready Cloud & DevOps Engineer capable of designing, automating, securing, and managing scalable cloud infrastructure and modern CI/CD systems.
+
+---
+
 ## 🚀 Why This GitHub Exists
 
-This GitHub is my Cloud & DevOps engineering portfolio—a place where I learn, build, document, and automate real-world projects.
+This GitHub is my Cloud & DevOps engineering portfolio—where I learn, build, document, and automate real-world projects.
 
-My goal is simple:
+Every repository reflects practical learning, hands-on experimentation, and continuous improvement as I work toward becoming a production-ready Cloud & DevOps Engineer.
 
-> To become a production-ready Cloud & DevOps Engineer by building practical solutions and sharing my learning journey with the community.
+My focus is simple:
 
-### What You'll Find Here
-
-- Cloud & DevOps Projects
-- AWS Hands-on Labs
-- Infrastructure as Code (Terraform)
-- CI/CD Automation Pipelines
-- Technical Documentation & Notes
-- My #90DaysOfDevOps Learning Journey
+- Learn continuously.
+- Build production-ready projects.
+- Share technical knowledge.
+- Automate repetitive tasks.
+- Grow as a Cloud & DevOps Engineer.
 
 > Learn. Build. Automate. Deploy. Repeat.
 
