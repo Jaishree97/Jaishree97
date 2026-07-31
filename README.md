@@ -23,7 +23,7 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jaishree97&style=for-the-badge&color=0e75b6" />
 
-  <img src="https://img.shields.io/github/followers/Jaishree97?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Jaishree97?style=for-the-badge&cacheSeconds=60" />
 
   <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
