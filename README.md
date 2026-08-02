@@ -94,10 +94,21 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 ## 📌 Featured Projects
 
 ### 🚀 90 Days of DevOps
-
 > My hands-on Cloud & DevOps learning journey.
 
 - [90DaysOfDevOps](https://github.com/Jaishree97/90DaysOfDevOps)
+
+---
+
+### 💻 DevBoard
+> Production-ready full-stack DevOps application built with modern engineering practices.
+
+- [DevBoard](https://github.com/Jaishree97/devboard)
+  - Go backend
+  - PostgreSQL database
+  - Docker & Docker Compose
+  - GitHub Actions CI/CD
+  - DevSecOps automation
 
 ---
 
