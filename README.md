@@ -123,9 +123,13 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 
 ### ⚡ GitHub Actions Projects
 
-> Hands-on CI/CD automation workflows and GitHub Actions labs.
+> Hands-on GitHub Actions workflows, CI/CD automation, and production-ready DevSecOps projects.
 
 - [GitHub Actions Practice](https://github.com/Jaishree97/github-actions-practice)
+  - Workflow basics, triggers, matrices, runners, artifacts, caching, secrets, and reusable workflows.
+
+- [GitHub Actions Capstone](https://github.com/Jaishree97/github-actions-capstone) ⭐
+  - Production-style CI/CD pipeline featuring reusable workflows, Docker image builds, automated testing, Trivy security scanning, Dependabot, SARIF security reporting, artifacts, and deployment automation.
 
 ---
 
