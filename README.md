@@ -241,21 +241,28 @@ Open to **full-time Cloud & DevOps opportunities**.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jaishree97&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Jaishree97&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="100%" height="180" alt="Jaishree's GitHub Stats"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishree97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" height="180" alt="Jaishree's Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishree97&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Jaishree97&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Jaishree97&theme=tokyonight&hide_border=true&mode=weekly" width="70%" height="180" alt="Jaishree's GitHub Streak"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Jaishree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaishree97&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Jaishree97)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaishree97&theme=tokyo-night&hide_border=true&area=true&custom_title=Jaishree%27s%20Contribution%20Graph" width="100%" alt="Jaishree's GitHub Activity Graph"/>
+</p>
 
 ---
 
