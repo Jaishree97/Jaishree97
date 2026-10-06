@@ -17,7 +17,7 @@ Cloud & DevOps Engineer
 </h3>
 
 <p align="center">
-AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastructure
+AWS Certified Cloud Practitioner • Cloud Infrastructure • DevOps • Automation
 </p>
 
 <p align="center">
@@ -32,13 +32,22 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 
 ## 🚀 About Me
 
-- AWS Certified Cloud Practitioner (CLF-C02).
-- Passionate about Cloud Computing, DevOps, and Infrastructure Automation.
-- Building real-world Cloud & DevOps projects using AWS and open-source technologies.
-- Skilled in Python, MySQL, Linux, Git, and modern Cloud & DevOps tools.
-- Interested in Infrastructure as Code (IaC), CI/CD, Containerization, Cloud Security, and Automation.
-- Continuously learning through hands-on projects, technical documentation, and modern DevOps practices.
-- Actively documenting and sharing my Cloud & DevOps journey on GitHub.
+I'm a **Cloud & DevOps Engineer** focused on building, automating, and troubleshooting cloud infrastructure and production-ready environments.
+
+I have hands-on experience with **AWS, Terraform, Docker, Kubernetes, Amazon EKS, GitHub Actions, Helm, Argo CD, Linux, Git, and Infrastructure as Code.**
+
+My work focuses on:
+
+- ☁️ Cloud infrastructure and automation
+- 🏗️ Infrastructure as Code
+- 🐳 Containerization and orchestration
+- 🔄 CI/CD automation
+- 🔁 GitOps deployments
+- 📊 Monitoring and observability
+- 🤖 AI-assisted DevOps and troubleshooting
+- 🐧 Linux administration and troubleshooting
+
+I document my hands-on work through real-world projects, technical notes, labs, and my **90 Days of DevOps** portfolio.
 
 ---
 
@@ -47,74 +56,102 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,helm,argo" height="32" />
 </p>
 
 ### 💻 Programming & Scripting
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,bash" height="32" />
 </p>
 
 ### 🐧 Operating Systems, Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,mysql,git,github,vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux,mysql,postgres,git,github,vscode" height="32" />
 </p>
 
 ### 📊 Monitoring & Observability
 
 <p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="40" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="32" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 💡 What I Work With
 
-- Kubernetes Fundamentals
-- Advanced Terraform Modules & Best Practices
-- Monitoring & Observability
-- Production-grade CI/CD Pipelines
-- Infrastructure Automation
-- Cloud Security Best Practices
+| Area | Technologies |
+|------|--------------|
+| ☁️ Cloud | AWS, EC2, S3, IAM, VPC, ALB, Auto Scaling, CloudFront, Route 53 |
+| 🏗️ IaC | Terraform |
+| 🐳 Containers | Docker, Docker Compose |
+| ☸️ Kubernetes | Kubernetes, Amazon EKS, Helm |
+| 🔄 CI/CD | GitHub Actions |
+| 🔁 GitOps | Argo CD |
+| 📊 Observability | Prometheus, Grafana, Loki |
+| 🐧 Linux | Administration, networking, permissions, processes, troubleshooting |
+| 🤖 Automation | Python, Bash |
+| 🔧 Version Control | Git, GitHub |
 
----
-
-## 🌱 Currently Building
-
-- Production-ready Cloud Infrastructure projects.
-- CI/CD pipelines using GitHub Actions.
-- Terraform-based AWS infrastructure deployments.
-- Linux administration and troubleshooting labs.
-- Technical documentation for Cloud & DevOps concepts.
-  
 ---
 
 ## 📌 Featured Projects
 
 ### 🚀 90 Days of DevOps
-> My hands-on Cloud & DevOps learning journey.
 
-- [90DaysOfDevOps](https://github.com/Jaishree97/90DaysOfDevOps)
+> A hands-on Cloud & DevOps engineering portfolio covering the journey from **Linux and networking to production-ready cloud infrastructure, GitOps, observability, and AI-assisted DevOps.**
+
+**Linux → Networking → Git → Docker → AWS → Terraform → CI/CD → Kubernetes → Helm → GitOps → Observability → AIOps**
+
+Key implementations include:
+
+- AWS infrastructure and networking
+- Terraform Infrastructure as Code
+- Docker containerization
+- GitHub Actions CI/CD
+- Kubernetes & Amazon EKS
+- Helm application packaging
+- Argo CD GitOps deployments
+- Prometheus, Grafana & Loki observability
+- AI-assisted Kubernetes troubleshooting
+
+🔗 [90 Days of DevOps](https://github.com/Jaishree97/90DaysOfDevOps)
 
 ---
 
 ### 💻 DevBoard
-> Production-ready full-stack DevOps application built with modern engineering practices.
 
-- [DevBoard](https://github.com/Jaishree97/devboard)
-  - Go backend
-  - PostgreSQL database
-  - Docker & Docker Compose
-  - GitHub Actions CI/CD
-  - DevSecOps automation
+> Production-ready full-stack application demonstrating **containerization, CI/CD, Kubernetes, GitOps, DevSecOps, and AI-assisted DevOps**.
+
+**Tech:** Go • PostgreSQL • Docker • GitHub Actions • Kubernetes • Helm • Argo CD
+
+- 🐳 Containerized application with Docker & Docker Compose
+- 🔄 Automated CI/CD with GitHub Actions
+- ☸️ Kubernetes deployment with Helm
+- 🔁 GitOps deployment using Argo CD
+- 🔐 DevSecOps security scanning
+- 🤖 AI-assisted troubleshooting and automation
+
+🔗 [DevBoard](https://github.com/Jaishree97/devboard)
+
+### 🤖 KubeHealer
+
+> AI-assisted Kubernetes troubleshooting and automated recovery project.
+
+**Tech:** Kubernetes • Python • Temporal • Claude • Docker
+
+- Kubernetes health monitoring
+- AI-assisted issue diagnosis
+- Automated remediation
+- Temporal-based workflows
+- Fault recovery and troubleshooting
 
 ---
 
-### ☁️ Cloud & AWS Projects
+## ☁️ AWS Projects
 
-> Hands-on AWS projects covering networking, compute, scalability, and web hosting.
+> Hands-on AWS projects covering compute, networking, scalability, storage, and web hosting.
 
 - [AWS Static Website Hosting with S3 & CloudFront](https://github.com/Jaishree97/aws-static-website-s3-cloudfront)
 - [EC2 Apache Web Server Setup](https://github.com/Jaishree97/ec2-apache-web-server)
@@ -124,36 +161,45 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 
 ---
 
-### 🏗️ Terraform Projects
+## 🏗️ Terraform Projects
 
-> Infrastructure as Code (IaC) projects built using Terraform and AWS.
+> Infrastructure as Code projects focused on provisioning and managing AWS infrastructure using Terraform.
 
 - [TerraWeek](https://github.com/Jaishree97/TerraWeek)
 
 ---
 
-### ⚡ GitHub Actions Projects
+## ⚡ CI/CD & GitHub Actions
 
-> Hands-on GitHub Actions workflows, CI/CD automation, and production-ready DevSecOps projects.
+> Hands-on CI/CD automation and DevSecOps workflows using GitHub Actions.
 
-- [GitHub Actions Practice](https://github.com/Jaishree97/github-actions-practice)
-  - Workflow basics, triggers, matrices, runners, artifacts, caching, secrets, and reusable workflows.
+### GitHub Actions Capstone ⭐
 
-- [GitHub Actions Capstone](https://github.com/Jaishree97/github-actions-capstone) ⭐
-  - Production-style CI/CD pipeline featuring reusable workflows, Docker image builds, automated testing, Trivy security scanning, Dependabot, SARIF security reporting, artifacts, and deployment automation.
+Production-style CI/CD pipeline featuring:
+
+- Reusable workflows
+- Docker image builds
+- Automated testing
+- Trivy security scanning
+- Dependabot
+- SARIF security reporting
+- Artifacts
+- Deployment automation
+
+🔗 [GitHub Actions Capstone](https://github.com/Jaishree97/github-actions-capstone)
 
 ---
 
-### 🐧 Linux Projects
+## 🐧 Linux Projects
 
-> Linux administration, monitoring, and troubleshooting labs.
+> Hands-on Linux administration, monitoring, and troubleshooting labs.
 
 - [Linux Monitoring & Troubleshooting Lab](https://github.com/Jaishree97/linux-monitoring-troubleshooting-lab)
 - [Nginx & HTTPD Troubleshooting Lab](https://github.com/Jaishree97/nginx-httpd-troubleshooting-lab)
 
 ---
 
-### 📚 DevOps Notes Repository
+## 📚 DevOps Notes Repository
 
 > Technical notes, hands-on labs, cheat sheets, and Cloud & DevOps documentation.
 
@@ -163,6 +209,7 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 
 ## 🏆 Certifications
 
+- Certified DevOps Engineer Associate
 - AWS Certified Cloud Practitioner (CLF-C02)
 - AWS re/Start Graduate
 - Python Certification
@@ -179,11 +226,16 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 
 ## 💼 Open To Opportunities
 
-- Cloud Engineer
-- DevOps Engineer
-- Cloud Support Engineer
-- Platform Engineer
-- Site Reliability Engineer (Entry-Level)
+I'm currently open to opportunities in:
+
+- **DevOps Engineer**
+- **Junior DevOps Engineer**
+- **Cloud Engineer**
+- **Cloud Support Engineer**
+- **Cloud Operations Engineer**
+- **Platform Engineer**
+
+Open to **full-time Cloud & DevOps opportunities**.
 
 ---
 
@@ -220,7 +272,7 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
     <img src="https://img.shields.io/badge/LinkedIn-Jaishree%20Chaure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:jaishreechoure2016@gmail.com">
+  <a href="mailto:chaurejaishree@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -231,26 +283,18 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 
 ---
 
-## 🎯 Career Goal
-
-> To become a production-ready Cloud & DevOps Engineer capable of designing, automating, securing, and managing scalable cloud infrastructure and modern CI/CD systems.
-
----
-
 ## 🚀 Why This GitHub Exists
 
-This GitHub is my Cloud & DevOps engineering portfolio—where I learn, build, document, and automate real-world projects.
+This GitHub is my **Cloud & DevOps engineering portfolio** — where I build, automate, troubleshoot, and document real-world projects.
 
-Every repository reflects practical learning, hands-on experimentation, and continuous improvement as I work toward becoming a production-ready Cloud & DevOps Engineer.
+My focus:
 
-My focus is simple:
+- Build practical projects
+- Automate repetitive tasks
+- Improve troubleshooting skills
+- Document technical learning
+- Work with production-oriented cloud and DevOps practices
 
-- Learn continuously.
-- Build production-ready projects.
-- Share technical knowledge.
-- Automate repetitive tasks.
-- Grow as a Cloud & DevOps Engineer.
-
-> Learn. Build. Automate. Deploy. Repeat.
+> **Learn. Build. Automate. Deploy. Improve.**
 
 ---
